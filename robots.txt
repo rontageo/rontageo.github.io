@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rontageo.github.io/sitemap.html.gz
+Sitemap: https://rontageo.github.io/app/sitemap.html.gz
+Sitemap: https://rontageo.github.io/assets/sitemap.html.gz
+Sitemap: https://rontageo.github.io/css/sitemap.html.gz
+Sitemap: https://rontageo.github.io/includes/sitemap.html.gz
+Sitemap: https://rontageo.github.io/item/sitemap.html.gz
+Sitemap: https://rontageo.github.io/src/sitemap.html.gz
